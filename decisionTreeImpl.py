@@ -1,12 +1,11 @@
-# CS6510 HW 1 Code Skeleton
-# Please use this outline to implement your decision tree. You can add any code around this.
+# Dataset - https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+# Classfication  <=7 = 0 , >7 = 1
+# Implement your decision tree below
 
 import csv
 import math
 from collections import Counter
 
-# Enter You Name Here
-myname = "Deep-Kumar-"  # or "Doe-Jane-"
 
 # Implement your decision tree below
 class DecisionTree():
